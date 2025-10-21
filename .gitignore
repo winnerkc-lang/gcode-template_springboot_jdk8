@@ -15,7 +15,7 @@
 *.jar
 *.war
 *.nar
-*.ear
+*.eargit remote add origin https://github.com/winnerkc-lang/gcode-template_springboot_jdk8.git
 *.zip
 *.tar.gz
 *.rar
