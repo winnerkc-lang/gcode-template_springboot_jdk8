@@ -1,6 +1,6 @@
 # Spring Boot Demo Project
 
-This is a simple Spring Boot project.
+This is a simple Spring Boot project. 用於簡易的專案開頭或測試
 
 ## Running the application
 
